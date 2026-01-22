@@ -38,5 +38,5 @@ scikit-learn
 
 
 7)  Course
-CIS 380
+COMP 380 - Introduction to Artificial Intelligence
 Lab 3
