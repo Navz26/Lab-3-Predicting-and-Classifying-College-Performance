@@ -38,5 +38,5 @@ scikit-learn
 
 
 7)  Course
-CIS 480 – Decision Support Systems
+CIS 380
 Lab 3
